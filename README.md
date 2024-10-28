@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-👋 Hello! I'm Touhid, a passionate developer and tech enthusiast based in Bangladesh. I specialize in mobile apps development and love working on innovative projects that make a difference.
+👋 Hello! I'm Touhid, a passionate mobile apps developer and tech enthusiast based in Bangladesh 🇧🇩.
 
 ## Skills
 - **Programming Languages**: Kotlin, Swift, Java & Kotlin Multiplatform.
