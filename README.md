@@ -14,7 +14,7 @@
 
 
 ## Projects
-Projects and more about me is in my website. Please check here: [My Portfolio Website](https://touhidtech.com)
+Projects and more about me are in my website. Please check here: [My Portfolio Website](https://touhidtech.com)
 
 ## Get in Touch
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/touhid1010) or follow me on [FB](https://fb.com/touhidapps) to stay updated with me!
