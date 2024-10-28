@@ -4,7 +4,14 @@
 👋 Hello! I'm Touhid, a passionate mobile apps developer and tech enthusiast based in Bangladesh 🇧🇩.
 
 ## Skills
-{% include skills.md %}
+|         Languages      |  SDK/Framework            |  Tools & Technologies  | Databases              |
+|------------------------|---------------------------|------------------------|------------------------|
+| **Kotlin**             | **Android SDK**           | **Android Studio**     |**SQLite**              |
+| **Swift/SwiftUI**      | **iOS SDK**               | **Xcode**              |**Room DB**             |
+| **Java**               | **Jetpack Compose**       | **IntelliJ IDEA**      |**Core Data**           |
+| **PHP**                | **Kotlin Multiplatform**  | **Git**                |**Firebase database**   |
+| **JavaScript**         | **SpringBoot**            | **Jira**               |**MySQL**               |
+
 
 ## Projects
 Here are a few of my noteworthy projects:
