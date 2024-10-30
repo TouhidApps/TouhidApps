@@ -1,5 +1,5 @@
 # Hello! I'm Touhid, 
-## a passionate mobile apps developer and tech enthusiast with 7+ years of experiance in native android(Kotlin/Java) & iOS(Swift) apps development. Currently I am focusing on Kotlin Multiplatform. 
+## a passionate mobile apps developer and tech enthusiast with 7+ years of experience in native android(Kotlin/Java) & iOS(Swift) apps development. Currently I am focusing on Kotlin Multiplatform. 
 
 ## Skills
 |         Languages      |  SDK/Framework            |  Tools & Technologies  | Databases              |
